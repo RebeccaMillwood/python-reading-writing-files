@@ -9,7 +9,7 @@
 #     for line in reader:
 #         colours.append(line)
 
-# # print(colours)
+# print(colours)
 
 
 # for data in colours:
